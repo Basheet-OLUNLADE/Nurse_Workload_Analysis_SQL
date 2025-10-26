@@ -1,0 +1,8 @@
+# Reflections on Nurse Workload Analysis SQL Project
+
+1. Reinforced my understanding of SQL clauses and aggregate functions.
+2. Practiced using WHERE with AND, OR, NOT, and BETWEEN conditions.
+3. Learned how to use GROUP BY with HAVING to filter grouped results.
+4. Understood how to calculate averages using DATEDIFF().
+5. Improved confidence in joining multiple tables for analysis.
+6. Next step: move on to JOINs and subqueries for deeper analysis.
